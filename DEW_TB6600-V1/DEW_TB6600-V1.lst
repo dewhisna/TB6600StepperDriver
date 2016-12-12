@@ -1,0 +1,150 @@
+eeschema (2013-jul-07)-stable  >> Creation date: Sun 11 Dec 2016 07:48:08 PM CST
+#Cmp ( order = Reference )
+| C1         0.1uF       
+| C2         0.01uF      
+| C3         220uF       
+| C4         0.1uF       
+| C5         0.01uF      
+| C6         1000uF      
+| C7         0.1uF       
+| C8         100pF       
+| C9         0.1uF       
+| C10        100pF       
+| C11        10uF        
+| C12        10uF        
+| C13        0.001uF     
+| C14        0.001uF     
+| C15        0.01uF      
+| C16        1uF Tant.   
+| D1         1N4148      
+| D2         1N4148      
+| F1         15A         
+| IC1        TB6600HG    
+| JP1        JUMPER3     
+| JP2        JUMPER3     
+| JP3        JUMPER3     
+| LED1       Red         
+| LED2       Green       
+| LED3       Red         
+| LED4       Red/Green   
+| LED5       Amber       
+| OK1        PC817       
+| OK2        6N137       
+| OK3        6N137       
+| P1         TST         
+| P2         JST B2B-XH-A(LF)(SN)
+| P3         TST         
+| Q1         BS170       
+| Q2         BS170       
+| Q3         BS170       
+| Q4         BS170       
+| Q5         2N3904      
+| Q6         BS170       
+| R1         4.7K        
+| R2         4.7K        
+| R3         4.7K        
+| R4         4.7K        
+| R5         10K         
+| R6         4.7K        
+| R7         10K         
+| R8         10K         
+| R9         30K         
+| R10        30K         
+| R11        4.7K        
+| R12        4.7K        
+| R13        4.7K        
+| R14        270         
+| R15        270         
+| R16        270         
+| R17        0.2 Ohm 3W  
+| R18        0.2 Ohm 3W  
+| R19        100K        
+| R20        330         
+| R21        330         
+| R22        51K         
+| R23        1.5K        
+| R24        10K         
+| R25        18K         
+| S1         DP05        
+| U1         74HCT14     
+| U2         74LS123     
+| X1         MSTBV2      
+| X2         MSTBV4      
+| X3         MSTBV6      
+#End Cmp
+
+#Cmp ( order = Value )
+| 100pF        C8        
+| 100pF        C10       
+| 0.001uF      C13       
+| 0.001uF      C14       
+| 0.01uF       C2        
+| 0.01uF       C5        
+| 0.01uF       C15       
+| 0.1uF        C1        
+| 0.1uF        C4        
+| 0.1uF        C7        
+| 0.1uF        C9        
+| 1uF Tant.    C16       
+| 10uF         C11       
+| 10uF         C12       
+| 220uF        C3        
+| 1000uF       C6        
+| 1N4148       D1        
+| 1N4148       D2        
+| 15A          F1        
+| TB6600HG     IC1       
+| JUMPER3      JP1       
+| JUMPER3      JP2       
+| JUMPER3      JP3       
+| Red          LED1      
+| Green        LED2      
+| Red          LED3      
+| Red/Green    LED4      
+| Amber        LED5      
+| 6N137        OK2       
+| 6N137        OK3       
+| PC817        OK1       
+| JST B2B-XH-A(LF)(SN) P2        
+| TST          P1        
+| TST          P3        
+| 2N3904       Q5        
+| BS170        Q1        
+| BS170        Q2        
+| BS170        Q3        
+| BS170        Q4        
+| BS170        Q6        
+| 0.2 Ohm 3W   R17       
+| 0.2 Ohm 3W   R18       
+| 270          R14       
+| 270          R15       
+| 270          R16       
+| 330          R20       
+| 330          R21       
+| 1.5K         R23       
+| 4.7K         R1        
+| 4.7K         R2        
+| 4.7K         R3        
+| 4.7K         R4        
+| 4.7K         R6        
+| 4.7K         R11       
+| 4.7K         R12       
+| 4.7K         R13       
+| 10K          R24       
+| 10K          R5        
+| 10K          R7        
+| 10K          R8        
+| 18K          R25       
+| 30K          R9        
+| 30K          R10       
+| 51K          R22       
+| 100K         R19       
+| DP05         S1        
+| 74HCT14      U1        
+| 74LS123      U2        
+| MSTBV2       X1        
+| MSTBV4       X2        
+| MSTBV6       X3        
+#End Cmp
+
+#End List

@@ -1,0 +1,27 @@
+
+*~
+*.bak
+*.a
+*.la
+*.lib
+*.moc
+*.o
+*.obj
+*.orig
+*.temp
+*.so
+*.core
+.DS_Store
+.svn
+*.qm
+
+# Exceptions specific to KiCAD:
+# Ignore KiCAD bak files, but include the library cache files
+#  as they can serve as a data fallback for library generation, as per:
+#  https://electronics.stackexchange.com/questions/221756/which-files-to-version-control-for-kicad
+*.kicad_pcb-bak
+!*-cache.lib
+
+# Junk Folders:
+/**/junk
+

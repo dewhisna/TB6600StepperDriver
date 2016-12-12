@@ -1,0 +1,19 @@
+Drill report for /home/dewhisna/Documents/programs/BoXZY/CNC/DEW_TB6600-V1/KiCAD/DEW_TB6600-V1/DEW_TB6600-V1.kicad_pcb
+Created on Sun 11 Dec 2016 08:13:41 PM CST
+Drill report for plated through holes :
+T1  0.71mm  0.028"  (20 holes)
+T2  0.89mm  0.035"  (168 holes)
+T3  1.07mm  0.042"  (19 holes)
+T4  1.32mm  0.052"  (16 holes)
+T5  1.52mm  0.060"  (4 holes)
+
+Total plated holes count 227
+
+
+Drill report for unplated through holes :
+T1  4.24mm  0.167"  (4 holes)
+T2  8.50mm  0.335"  (2 holes)
+
+Total unplated holes count 6
+
+
